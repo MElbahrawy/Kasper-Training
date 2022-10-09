@@ -579,6 +579,10 @@ main::after {
     bottom: 0;
 }
 
+.portfolioimg:hover .caption p {
+    color: var(--main-color);
+}
+
 .morebtn {
     display: flex;
     justify-content: center;
